@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-In this project consider that you are working as a data professional at TikTok and you have been assigned a project to classify Tiktok Videos as Claims or Opinions
+In this project consider that you are working as a data professional at TikTok and you have been assigned a project to classify Tiktok Videos as Claims or Opinions.
 
 TikTok users have the ability to report videos and comments that contain user claims. These reports identify content that needs to be reviewed by moderators. This process generates a large number of user reports that are difficult to address quickly. 
 
